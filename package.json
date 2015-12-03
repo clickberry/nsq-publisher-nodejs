@@ -1,0 +1,32 @@
+{
+  "name": "clickberry-nsq-publisher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "NSQ publisher package on Node.js",
+  "author": "Konstantin Altuhov",
+  "keywords": [
+    "clickberry",
+    "webservices",
+    "node.js",
+    "nsq"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clickberry/nsq-publisher-nodejs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clickberry/nsq-publisher-nodejs/issues"
+  },
+  "dependencies": {
+    "nsqjs": "^0.7.8",
+    "q": "^1.4.1",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
