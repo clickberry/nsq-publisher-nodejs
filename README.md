@@ -1,1 +1,1 @@
-# config-nodejs
+# nsq-publisher-nodejs
