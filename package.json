@@ -1,6 +1,6 @@
 {
   "name": "clickberry-nsq-publisher",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "description": "NSQ publisher package on Node.js",
   "author": "Konstantin Altuhov",
